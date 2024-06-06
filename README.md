@@ -1,1 +1,1 @@
-# T-l-Psy
+# TelePsy
